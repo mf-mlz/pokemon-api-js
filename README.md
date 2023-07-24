@@ -25,7 +25,7 @@ Consumption of the Pokémon API for search, through Fetch, done with JavaScript.
 
 - **Back-End Development**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=php,java,nodejs )](https://skills.thijs.gg)
+<a hfref="https://pokeapi.co/?ref=public-apis">Poke API</a>
 
 <br>
 
