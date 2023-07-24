@@ -23,11 +23,6 @@ Consumption of the Pokémon API for search, through Fetch, done with JavaScript.
 
 <br>
 
-- **Back-End Development**:
-
-<a hfref="https://pokeapi.co/?ref=public-apis">Poke API</a>
-
-<br>
 
 - **Cloud Hosting**:
 
